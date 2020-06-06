@@ -1,0 +1,225 @@
+"0","install.packages(""Scale"")
+"
+"2","WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"2","Installing package into ‘C:/Users/jibin/OneDrive/Documents/R/win-library/3.6’
+(as ‘lib’ is unspecified)
+"
+"2","also installing the dependencies ‘checkmate’, ‘mnormt’, ‘Formula’, ‘latticeExtra’, ‘acepack’, ‘data.table’, ‘htmlTable’, ‘viridis’, ‘psych’, ‘Hmisc’
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/checkmate_1.9.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 737595 bytes (720 KB)
+"
+"2","downloaded 720 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/mnormt_1.5-5.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 117964 bytes (115 KB)
+"
+"2","downloaded 115 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/Formula_1.2-3.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 181517 bytes (177 KB)
+"
+"2","downloaded 177 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/latticeExtra_0.6-28.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2195133 bytes (2.1 MB)
+"
+"2","downloaded 2.1 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/acepack_1.4.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 98259 bytes (95 KB)
+"
+"2","downloaded 95 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/data.table_1.12.6.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2254730 bytes (2.2 MB)
+"
+"2","downloaded 2.2 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/htmlTable_1.13.3.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 339451 bytes (331 KB)
+"
+"2","downloaded 331 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/viridis_0.5.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1866884 bytes (1.8 MB)
+"
+"2","downloaded 1.8 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/psych_1.8.12.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 5936338 bytes (5.7 MB)
+"
+"2","downloaded 5.7 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/Hmisc_4.3-0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 3137839 bytes (3.0 MB)
+"
+"2","downloaded 3.0 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/Scale_1.0.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 59044 bytes (57 KB)
+"
+"2","downloaded 57 KB
+
+"
+"1","package â€˜checkmateâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜mnormtâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜Formulaâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜latticeExtraâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜acepackâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜data.tableâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜htmlTableâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜viridisâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜psychâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜Hmiscâ€™ successfully unpacked and MD5 sums checked
+"
+"1","package â€˜Scaleâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\jibin\AppData\Local\Temp\RtmpK4YVHF\downloaded_packages"
+"1",""
+"1","
+"
+"0","install.packages(""Scale"")"
+"2","WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"2","Installing package into ‘C:/Users/jibin/OneDrive/Documents/R/win-library/3.6’
+(as ‘lib’ is unspecified)
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/Scale_1.0.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 59044 bytes (57 KB)
+"
+"2","downloaded 57 KB
+
+"
+"1","package â€˜Scaleâ€™ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\jibin\AppData\Local\Temp\RtmpK4YVHF\downloaded_packages"
+"1",""
+"1","
+"
+"0","require(Scale)"
+"2","Loading required package: Scale
+"
+"2","Loading required package: psych
+"
+"2","
+Attaching package: ‘psych’
+
+"
+"2","The following objects are masked from ‘package:ggplot2’:
+
+    %+%, alpha
+
+"
+"2","Loading required package: Hmisc
+"
+"2","Loading required package: survival
+"
+"2","Loading required package: Formula
+"
+"2","Registered S3 methods overwritten by 'htmltools':
+  method               from         
+  print.html           tools:rstudio
+  print.shiny.tag      tools:rstudio
+  print.shiny.tag.list tools:rstudio
+"
+"2","Registered S3 method overwritten by 'htmlwidgets':
+  method           from         
+  print.htmlwidget tools:rstudio
+"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"
+"2","
+Attaching package: ‘Hmisc’
+
+"
+"2","The following object is masked from ‘package:psych’:
+
+    describe
+
+"
+"2","The following object is masked from ‘package:rvest’:
+
+    html
+
+"
+"2","The following objects are masked from ‘package:dplyr’:
+
+    src, summarize
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    format.pval, units
+
+"
+"2","Loading required package: MASS
+"
+"2","
+Attaching package: ‘MASS’
+
+"
+"2","The following object is masked from ‘package:dplyr’:
+
+    select
+
+"

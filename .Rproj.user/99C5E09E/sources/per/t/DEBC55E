@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576175199674.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2246949097",
+    "id" : "DEBC55E",
+    "lastKnownWriteTime" : 1576155289,
+    "last_content_update" : 1576155289,
+    "path" : "C:/Users/jibin/OneDrive/Desktop/Soccer Analysis/Scrape Files/Season_15.Rmd",
+    "project_path" : "Scrape Files/Season_15.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

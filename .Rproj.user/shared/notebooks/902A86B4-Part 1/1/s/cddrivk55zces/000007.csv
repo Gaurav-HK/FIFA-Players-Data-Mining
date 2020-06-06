@@ -1,0 +1,18 @@
+"0","
+DS3 <- merge(Season_15,Season_16,all.x=TRUE,all.y=TRUE) %>% arrange(desc(O_Rating))
+DS2 <- merge(DS3,Season_17,all.x=TRUE,all.y=TRUE) %>% arrange(desc(O_Rating))
+DS1 <- merge(DS2,Season_18,all.x=TRUE,all.y=TRUE) %>% arrange(desc(O_Rating))
+(Data_Set <- merge(DS1,Season_19,all.x=TRUE,all.y=TRUE)) %>% arrange(desc(O_Rating))
+"
+"0",""
+"0","# Few entries for market_value and wage have entries as zero. Changing them to NA to perform na.rm operations"
+"0",""
+"0","Data_Set$Market_Value[ Data_Set$Market_Value== 0] <- NA"
+"0",""
+"0",""
+"0","Data_Set$Wage[ Data_Set$Wage== 0] <- NA"
+"0",""
+"0",""
+"0","Data_Set <- Data_Set %>% arrange(desc(O_Rating))"
+"0",""
+"0",""

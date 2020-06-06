@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576174934203.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4143526836",
+    "id" : "6D733E0F",
+    "lastKnownWriteTime" : 1576175263,
+    "last_content_update" : 1576207311626,
+    "path" : "C:/Users/jibin/OneDrive/Desktop/Soccer Analysis/Part 1.Rmd",
+    "project_path" : "Part 1.Rmd",
+    "properties" : {
+        "cursorPosition" : "179,0",
+        "scrollLine" : "173"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

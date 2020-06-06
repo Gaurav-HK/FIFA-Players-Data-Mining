@@ -1,0 +1,1 @@
+{"frames":[],"message":"Error in Data_Set %>% group_by(Position, Season) %>% summarise(Avg_Wage = mean(Wage,  : \n  could not find function \"%>%\"\n"}

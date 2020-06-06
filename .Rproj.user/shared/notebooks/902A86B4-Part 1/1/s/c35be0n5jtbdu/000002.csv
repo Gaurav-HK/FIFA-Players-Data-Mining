@@ -1,0 +1,6 @@
+"0","
+Pos_Wage <- Data_Set %>% group_by(Position,Season) %>% summarise(Avg_Wage= mean(Wage,na.rm = TRUE), Avg_Market_Value= mean(Market_Value,na.rm=TRUE)) %>% arrange(desc(Avg_Wage))
+"
+"2","Error in Data_Set %>% group_by(Position, Season) %>% summarise(Avg_Wage = mean(Wage,  : 
+  could not find function ""%>%""
+"

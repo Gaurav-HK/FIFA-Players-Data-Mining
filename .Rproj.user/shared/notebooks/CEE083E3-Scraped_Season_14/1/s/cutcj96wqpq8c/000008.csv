@@ -1,0 +1,18 @@
+"0","
+
+page_num <- 60*c(0:50)
+
+link= url(""https://sofifa.com/players?type=all&r=150059&set=true&showCol%5B%5D=pi&showCol%5B%5D=ae&showCol%5B%5D=oa&showCol%5B%5D=pt&showCol%5B%5D=bp&showCol%5B%5D=gu&showCol%5B%5D=vl&showCol%5B%5D=wg&showCol%5B%5D=fi&showCol%5B%5D=he&showCol%5B%5D=sh&showCol%5B%5D=vo&showCol%5B%5D=dr&showCol%5B%5D=fr&showCol%5B%5D=bl&showCol%5B%5D=ac&showCol%5B%5D=ba&showCol%5B%5D=st&showCol%5B%5D=sr&showCol%5B%5D=ar&showCol%5B%5D=in&showCol%5B%5D=po&showCol%5B%5D=vi&showCol%5B%5D=pe&showCol%5B%5D=cm&showCol%5B%5D=ma&showCol%5B%5D=sa&showCol%5B%5D=sl&showCol%5B%5D=gd&showCol%5B%5D=gp&showCol%5B%5D=gr&showCol%5B%5D=aw&showCol%5B%5D=dw&showCol%5B%5D=ir&showCol%5B%5D=sho&showCol%5B%5D=pas&showCol%5B%5D=dri&showCol%5B%5D=def&showCol%5B%5D=phy&offset="")
+
+
+ID <- lapply(paste0(link, page_num),
+                function(url){
+                  url %>% read_html() %>% 
+                    html_nodes(""-col-pi.pjax, td.col-pi"") %>% 
+                    html_text()
+                    
+                  
+                })
+"
+"2","Error: '30' does not exist in current working directory ('C:/Users/jibin/OneDrive/Desktop/The_Begining/R/Projects/Pristine').
+"

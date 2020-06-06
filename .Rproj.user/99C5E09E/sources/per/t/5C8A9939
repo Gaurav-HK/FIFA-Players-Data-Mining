@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576175208764.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "880385880",
+    "id" : "5C8A9939",
+    "lastKnownWriteTime" : 1576175248,
+    "last_content_update" : 1576175248581,
+    "path" : "C:/Users/jibin/OneDrive/Desktop/Soccer Analysis/Scrape Files/Modelling_Scrape_File.rmd",
+    "project_path" : "Scrape Files/Modelling_Scrape_File.rmd",
+    "properties" : {
+        "cursorPosition" : "8,160",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576175202443.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "580274961",
+    "id" : "4B88D9FD",
+    "lastKnownWriteTime" : 1576155286,
+    "last_content_update" : 1576155286,
+    "path" : "C:/Users/jibin/OneDrive/Desktop/Soccer Analysis/Scrape Files/Season_16.rmd",
+    "project_path" : "Scrape Files/Season_16.rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
